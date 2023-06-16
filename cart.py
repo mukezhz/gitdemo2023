@@ -11,3 +11,6 @@ print("new feature")
 print("hello")
 
 print("jhsgdfsf")
+
+print("cool feature")
+print("wow")
